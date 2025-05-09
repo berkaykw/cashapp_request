@@ -1,16 +1,9 @@
-# cashapp_request
+# 💸 Cash App Request
 
-A new Flutter project.
+Flutter ile geliştirilmiş basit bir finans yönetimi arayüzüdür.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/3ad9b739-8bb9-4caa-a586-f1a9ea27d852" width="300" />
+  <img src="https://github.com/user-attachments/assets/218b46fc-f2b0-4a51-a9d1-babf1e225f57" width="300" />
+  <img src="https://github.com/user-attachments/assets/9c0abf84-2ddc-4087-a835-a7e3af49f3e3" width="300" />
+</div>
